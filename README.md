@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hi, I'm HANA Ouerghemmi 👋</h1>
-<h3 font-size="20" align="center">As a passionate web developer , I am currently pursuing my studies at Holberton School, earth_africa hailing from Tunisia.</h3>
+<h3 font-size="20" align="center">As a passionate web developer , I am currently pursuing my studies at Holberton School, hailing from Tunisia.</h3>
 
 ## About Me
 
