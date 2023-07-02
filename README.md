@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+    <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a>
+</p>
+
 <h1 align="center">Hi, I'm HANA Ouerghemmi 👋</h1>
 <h3 font-size="20" align="center">As a passionate web developer , I am currently pursuing my studies at Holberton School, earth_africa hailing from Tunisia.</h3>
 
