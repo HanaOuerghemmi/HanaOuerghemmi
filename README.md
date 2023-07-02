@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" class="giphy-embed">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRyYmdqa2NzbWthM3E5dTFxMWx2a3V6dmlqYTMzdmFuMjJraHg4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="270" class="giphy-embed">
 </p>
 
 <h1 align="center">Hi, I'm HANA Ouerghemmi 👋</h1>
